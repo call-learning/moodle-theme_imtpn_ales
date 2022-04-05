@@ -26,5 +26,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Theme IMT Pédagothèque Numérique (Alès)';
 $string['configtitle'] = 'Theme IMT Pédagothèque Numérique (Alès)';
+$string['choosereadme'] = 'A theme based on Boost (Bootstrap 4.5) specifically designed for Theme
+ IMT Pédagothèque Numérique (Alès)';
 $string['region-content'] = 'Content';
 $string['region-side-pre'] = 'Right';
